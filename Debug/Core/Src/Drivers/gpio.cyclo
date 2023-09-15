@@ -1,0 +1,2 @@
+../Core/Src/Drivers/gpio.c:34:11:gpio_open	1
+../Core/Src/Drivers/gpio.c:84:11:gpio_close	1
